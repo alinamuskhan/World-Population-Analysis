@@ -49,13 +49,6 @@ The project uncovers significant trends in global population growth, highlightin
 
 The World Population Analysis provides valuable insights into global population dynamics. Understanding these trends is essential for policymakers, researchers, and businesses to make informed decisions regarding resource allocation, urban planning, and social services. As population dynamics continue to evolve, ongoing analysis will be crucial for addressing the challenges and opportunities they present.
 
-## Future Work
-
-Future analyses could include:
-- Incorporating more recent data and projections.
-- Exploring the impacts of global events (e.g., pandemics, conflicts) on population trends.
-- Analyzing the relationship between population dynamics and economic indicators.
-
 ## References
 
 - [World Bank Data](https://data.worldbank.org/)
